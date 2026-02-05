@@ -107,7 +107,7 @@ Typical input columns include:
    - `Outputs` (can initially be empty)
 3. Run the Python script from Excel using:
 **xlwings → Run main**
-    !['xlwings'](/03_assignment/img/xlwings.png)
+    !['xlwings'](img/xlwings.png)
 
 This triggers the `main()` function in `run_from_excel.py`.
 
